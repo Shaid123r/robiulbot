@@ -1,0 +1,30 @@
+{
+  "author": "ROBIUL",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "banMsg": false,
+  "adminOnlyMsg": false,
+  "BOTNAME": "ROBIUL-BOT",
+  "PREFIX": ".",
+  "react": "🐸",
+  "OPERATOR": [
+    "",
+    "61566763566725"
+  ],
+  "ADMINBOT": [
+    "",
+    "61566763566725"
+  ],
+  "OWNER": ["61566763566725"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}

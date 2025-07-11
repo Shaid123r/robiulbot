@@ -1,0 +1,67 @@
+hidden = ["package-lock.json", "package.json", "Robiul"]
+language = "bash"
+run = "npm start"
+
+[[ports]]
+localPort = 33657
+externalPort = 6000
+
+[[ports]]
+localPort = 34441
+externalPort = 3003
+
+[[ports]]
+localPort = 34699
+externalPort = 80
+
+[[ports]]
+localPort = 34921
+externalPort = 3002
+
+[[ports]]
+localPort = 36857
+externalPort = 8099
+
+[[ports]]
+localPort = 37257
+externalPort = 8000
+
+[[ports]]
+localPort = 39617
+externalPort = 5173
+
+[[ports]]
+localPort = 39713
+externalPort = 8080
+
+[[ports]]
+localPort = 40223
+externalPort = 5000
+
+[[ports]]
+localPort = 40533
+externalPort = 9000
+
+[[ports]]
+localPort = 41811
+externalPort = 8081
+
+[[ports]]
+localPort = 42937
+externalPort = 3001
+
+[[ports]]
+localPort = 45069
+externalPort = 4200
+
+[[ports]]
+localPort = 45493
+externalPort = 3000
+
+[[ports]]
+localPort = 46209
+externalPort = 6800
+
+[[ports]]
+localPort = 46689
+externalPort = 8008
