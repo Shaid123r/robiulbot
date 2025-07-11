@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Nayan-Bot
+      - name: Robiul-Bot
         run: npm start
